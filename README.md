@@ -98,6 +98,7 @@ otp-banking-system/
 │─ .env (ignored)
 │─ .gitignore
 │─ main.py
+│─ screenshots/
 ```
 
 ## 🧩 Possible Future Enhancements
