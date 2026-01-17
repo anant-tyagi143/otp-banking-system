@@ -18,19 +18,33 @@ A simple Python command-line banking simulation that uses **email-based OTP veri
 
 Users are prompted with:
 
-
-
 * Enter 1 for deposit.
 * Enter 2 for Withdrawal.
 * Enter 3 for Balance Check.
-
-
 
 Example flow:
 1. Enter your email
 2. Receive OTP
 3. Input OTP
 4. Perform transaction
+
+## 📸 Project Screenshots
+
+### 🔹 Main Menu
+![Menu](screenshots/menu.png)
+
+### 🔹 OTP Sent & Verified
+![OTP](screenshots/otp-verification.png)
+
+### 🔹 Deposit Transaction
+![Deposit](screenshots/deposit.png)
+
+### 🔹 Withdrawal Transaction
+![Withdraw](screenshots/withdrawl.png)
+
+### 🔹 Balance Check
+![Balance](screenshots/balance.png)
+
 
 ## 🚀 Getting Started
 
